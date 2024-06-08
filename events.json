@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "contractAddress": "xpla14v7zw926xg8lw4kreup47phrg3e0cm23yfcpr8x7tn4yh2ejatwsfw5kve",
+      "verified": true,
+      "allowedCountries": [],
+      "disallowedCountries": [
+        "CN",
+        "JP",
+        "KR",
+        "SG"
+      ]
+    }
+  ]
+}
